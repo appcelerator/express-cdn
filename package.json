@@ -1,5 +1,5 @@
 {
-  "name": "express-cdn",
+  "name": "appc-express-cdn",
   "description": "Node.js module for delivering optimized, minified, mangled, gzipped, and CDN-hosted assets in Express using S3 and CloudFront.",
   "version": "0.2.5",
   "author": {
